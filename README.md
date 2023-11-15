@@ -7,4 +7,7 @@
 <h3>V2: param - 15 655(1555)</h3>
 <img src="plots/V2.png"/>
 <hr>
+<h3>V2.1: param - 15 655(1555)</h3>
+<img src="plots/V2.1.png"/>
+<hr>
 Датасет который я использовал: <a href="https://www.kaggle.com/datasets/ronakbadhe/chess-evaluations">Kaggle</a>
