@@ -4,10 +4,11 @@
 <hr>
 <h3>V1: param - 2 743</h3>
 <img src="plots/V1.png"/>
-<h3>V2: param - 15 655(1555)</h3>
+<h3>V2: param - 15 655</h3>
 <img src="plots/V2.png"/>
-<hr>
-<h3>V2.1: param - 15 655(1555)</h3>
+<h3>V2.1: param - 15 655</h3>
 <img src="plots/V2.1.png"/>
+<h3>V3: param - 8330</h3>
+<img src="plots/V3.png"/>
 <hr>
 Датасет который я использовал: <a href="https://www.kaggle.com/datasets/ronakbadhe/chess-evaluations">Kaggle</a>
