@@ -16,5 +16,7 @@
 <img src="plots/V4.1.png"/>
 <h3>V5: param - 1930</h3>
 <img src="plots/V5.png"/>
+<h3>V5.1: param - 1930</h3>
+<img src="plots/V5.1.png"/>
 <hr>
 Датасет который я использовал: <a href="https://www.kaggle.com/datasets/ronakbadhe/chess-evaluations">Kaggle</a>
